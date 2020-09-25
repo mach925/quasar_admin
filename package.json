@@ -5,7 +5,7 @@
   "productName": "Quasar Admin",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
-  "author": "pratikpatelpp802@gmail.com",
+  "author": "chedo.tdev@gmail.com",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
